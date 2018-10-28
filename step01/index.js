@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Array Cardio</title>
-</head>
-<body>
-  <p><em>Psst: have a look at the JavaScript Console</em> 💁</p>
-  <script>
-    // Get your shorts on - this is an array workout!
+// Get your shorts on - this is an array workout!
 
     // Some data we can work with
 
@@ -52,6 +43,3 @@
 
     // 8. Reduce Exercise
     // Sum up the instances of each of these
-  </script>
-</body>
-</html>
